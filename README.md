@@ -7,7 +7,9 @@ How to update to new version MonacoCoin to Monoeci (Server and Wallet) :
 Save your wallet and your config files : 
 
 On linux : /home/YOUR NAME/.monacoCoinCore/
+
 On Windows : C:\Users\YOUR NAME\AppData\Roaming\MonacoCoinCore\
+
 On MacOs : /Users/sebastien/Library/Application\ Support/monacoCoinCore/
 
 If you have doubts back up the whole directory!
