@@ -24,7 +24,9 @@ If you have doubts back up the whole directory!
 4. Go to monoeci folder :
 
 On linux : /home/YOUR NAME/.monoeciCore/
+
 On Windows : C:\Users\YOUR NAME\AppData\Roaming\monoeciCore\
+
 On MacOs : /Users/sebastien/Library/Application\ Support/monoeciCore/
 
 and copy paste wallet.dat and masternode.conf which comes from your MonacoCoin Core directory
