@@ -2,7 +2,11 @@
 
 MonacoCoin Projet : Please use now new version : https://github.com/monacocoin-net/monoeci-core/releases
 
+Sentinel to change also thinking about doing the update https://github.com/monacocoin-net/sentinel
+----------------------
+
 How to update to new version MonacoCoin to Monoeci (Server and Wallet) : 
+----------------------
 
 Save your wallet and your config files : 
 
