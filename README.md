@@ -34,6 +34,27 @@ Copy and past monacoCoinCore.conf and rename to monoeciCore.conf
 
 5. Restart your server and wait full sync
 
+For linux server (Masternode): 
+----------------------
+
+Connect with the same user who is running monacoCoinCore
+
+  cd
+  ./monacoCoinCore-cli stop
+  tar cvf save.tar.gz .monacocoinCore
+  rm -fr sentinel
+  wget https://github.com/monacocoin-net/monoeci-core/releases/download/0.12.2/monoeciCore-0.12.2-linux64-cli.taz.gz
+  tar xvf monoeciCore-0.12.2-linux64-cli.taz.gz
+  ./monoecid
+  
+Wait 1 minutes (directory and wallet are being created)
+
+  
+
+
+
+  
+
 
 
 
