@@ -41,15 +41,54 @@ Connect with the same user who is running monacoCoinCore
 
 ```
   cd
+  
   ./monacoCoinCore-cli stop
+  
   tar cvf save.tar.gz .monacocoinCore
+  
   rm -fr sentinel
+  
   wget https://github.com/monacocoin-net/monoeci-core/releases/download/0.12.2/monoeciCore-0.12.2-linux64-cli.taz.gz
+  
   tar xvf monoeciCore-0.12.2-linux64-cli.taz.gz
+  
   ./monoecid
   
 ```
 Wait 1 minutes (directory and wallet are being created)
+
+```
+cp .monacoCoinCore/wallet.dat .monoeciCore/
+
+cp .monacoCoinCore/masternode.conf .monoeciCore/
+
+cp .monacoCoinCore/monacoCoinCore.conf .monoeciCore/monoeciCore.conf
+
+git clone https://github.com/monacocoin-net/sentinel.git 
+
+cd sentinel/
+
+virtualenv ./venv
+
+./venv/bin/pip install -r requirements.txt
+
+cd ..
+
+./monoecid
+
+```
+
+now wait full sync and if you have masternode use : 
+
+```
+
+./monoeci-cly masternode start
+
+```
+
+
+
+
 
   
 
