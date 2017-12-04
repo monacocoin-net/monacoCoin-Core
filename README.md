@@ -55,7 +55,7 @@ Connect with the same user who is running monacoCoinCore
   ./monoecid
   
 ```
-Wait 1 minutes (directory and wallet are being created)
+Wait 1 minutes (directory and wallet are being created) for force to close process CTRL+C and wait !
 
 ```
 cp .monacoCoinCore/wallet.dat .monoeciCore/
