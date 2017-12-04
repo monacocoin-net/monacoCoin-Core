@@ -39,6 +39,7 @@ For linux server (Masternode):
 
 Connect with the same user who is running monacoCoinCore
 
+```
   cd
   ./monacoCoinCore-cli stop
   tar cvf save.tar.gz .monacocoinCore
@@ -47,6 +48,7 @@ Connect with the same user who is running monacoCoinCore
   tar xvf monoeciCore-0.12.2-linux64-cli.taz.gz
   ./monoecid
   
+```
 Wait 1 minutes (directory and wallet are being created)
 
   
