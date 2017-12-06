@@ -48,7 +48,7 @@ Connect with the same user who is running monacoCoinCore
   
   ./monacoCoinCore-cli stop
   
-  tar cvf save.tar.gz .monacocoinCore/
+  tar zcvf save.tar.gz .monacoCoinCore/
   
   rm -fr sentinel
   
