@@ -46,7 +46,7 @@ Connect with the same user who is running monacoCoinCore
 ```
   cd
   
-  ./monacoCoinCore-cli stop
+  ./monacoCoin-cli stop
   
   tar zcvf save.tar.gz .monacoCoinCore/
   
