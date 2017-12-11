@@ -1,11 +1,10 @@
 # monacoCoin-Core
 
-MonacoCoin Projet : Please use now new version : https://github.com/monacocoin-net/monoeci-core/releases
+MonacoCoin Projet : Please use the new version : https://github.com/monacocoin-net/monoeci-core/releases
 
-Sentinel to change also thinking about doing the update https://github.com/monacocoin-net/sentinel
 ----------------------
 
-How to update to new version MonacoCoin to Monoeci (Server and Wallet) : 
+How to update to Monoeci (Server and Wallet) : 
 ----------------------
 
 Save your wallet and your config files : 
@@ -16,12 +15,12 @@ On Windows : C:\Users\YOUR NAME\AppData\Roaming\MonacoCoinCore\
 
 On MacOs : /Users/sebastien/Library/Application\ Support/monacoCoinCore/
 
-If you have doubts back up the whole directory!
+If you have doubts, back up the whole directory!
 ----------------------
 
 1. Close your apps
 
-2. Download last version of Monoeci(cli ou wallet is same) https://github.com/monacocoin-net/monoeci-core/releases
+2. Download the last version of Monoeci (cli ou wallet is the same) https://github.com/monacocoin-net/monoeci-core/releases
 
 3. Open Wallet or monoecid , wait 1 minute and close
 
@@ -31,12 +30,12 @@ On linux : /home/YOUR NAME/.monoeciCore/
 
 On Windows : C:\Users\YOUR NAME\AppData\Roaming\monoeciCore\
 
-On MacOs : /Users/sebastien/Library/Application\ Support/monoeciCore/
+On MacOs : /Users/YOURUSER/Library/Application\ Support/monoeciCore/
 
-and copy paste wallet.dat and masternode.conf which comes from your MonacoCoin Core directory
-Copy and past monacoCoinCore.conf and rename to monoeciCore.conf
+And copy paste wallet.dat and masternode.conf which come from your MonacoCoin Core directory
+Copy and paste monacoCoin.conf and rename to monoeci.conf
 
-5. Restart your server and wait full sync
+5. Restart your server and wait for the full sync
 
 For linux server (Masternode): 
 ----------------------
