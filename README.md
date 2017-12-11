@@ -51,7 +51,14 @@ Connect with the same user who is running monacoCoinCore
   
   rm -fr sentinel
   
-  wget https://github.com/monacocoin-net/monoeci-core/releases/download/0.12.2/monoeciCore-0.12.2-linux64-cli.taz.gz
+  FOR UBUNTU 14.04
+  
+  wget https://github.com/monacocoin-net/monoeci-core/releases/download/0.12.2/monoeciCore-0.12.2-linux64-cli.Ubuntu14.04.taz.gz
+  
+  or
+  
+  FOR UBUNTU 16.04
+  wget https://github.com/monacocoin-net/monoeci-core/releases/download/0.12.2/monoeciCore-0.12.2-linux64-cli.Ubuntu16.04.taz.gz
   
   tar xvf monoeciCore-0.12.2-linux64-cli.taz.gz
   
