@@ -13,7 +13,7 @@ On linux : /home/YOUR NAME/.monacoCoinCore/
 
 On Windows : C:\Users\YOUR NAME\AppData\Roaming\MonacoCoinCore\
 
-On MacOs : /Users/sebastien/Library/Application\ Support/monacoCoinCore/
+On MacOs : /Users/YOUR NAME/Library/Application\ Support/monacoCoinCore/
 
 If you have doubts, back up the whole directory!
 ----------------------
@@ -58,7 +58,7 @@ Connect with the same user who is running monacoCoinCore
   ./monoecid
   
 ```
-Wait 1 minutes (directory and wallet are being created) for force to close process CTRL+C and wait !
+Wait 1 minute (directory and wallet are being created) ans press CTRL+C to close the process and wait for the text to be back again !
 
 ```
 cp .monacoCoinCore/wallet.dat .monoeciCore/
@@ -81,7 +81,7 @@ cd ..
 
 ```
 
-now wait full sync and if you have masternode use : 
+Now wait for the full sync and if you have a masternode use : 
 
 ```
 
