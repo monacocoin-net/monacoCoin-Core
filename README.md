@@ -32,8 +32,8 @@ On Windows : C:\Users\YOUR NAME\AppData\Roaming\monoeciCore\
 
 On MacOs : /Users/YOURUSER/Library/Application\ Support/monoeciCore/
 
-And copy paste wallet.dat and masternode.conf which come from your MonacoCoin Core directory
-Copy and paste monacoCoin.conf and rename to monoeci.conf
+Copy paste wallet.dat and masternode.conf which come from your MonacoCoin Core directory
+Copy and paste monacoCoin.conf and rename it to monoeci.conf
 
 5. Restart your server and wait for the full sync
 
