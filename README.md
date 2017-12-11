@@ -66,7 +66,7 @@ cp .monacoCoinCore/wallet.dat .monoeciCore/
 
 cp .monacoCoinCore/masternode.conf .monoeciCore/
 
-cp .monacoCoinCore/monacoCoinCore.conf .monoeciCore/monoeciCore.conf
+cp .monacoCoinCore/monacoCoin.conf .monoeciCore/monoeci.conf
 
 git clone https://github.com/monacocoin-net/sentinel.git 
 
@@ -86,7 +86,7 @@ now wait full sync and if you have masternode use :
 
 ```
 
-./monoeci-cly masternode start
+./monoeci-cli masternode start
 
 ```
 
