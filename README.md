@@ -53,7 +53,7 @@ Connect with the same user who is running monacoCoinCore
   
   FOR UBUNTU 14.04
   
-  wget https://github.com/monacocoin-net/monoeci-core/releases/download/0.12.2/monoeciCore-0.12.2-linux64-cli.Ubuntu14.04.taz.gz
+  wget https://github.com/monacocoin-net/monoeci-core/releases/download/0.12.2/monoeciCore-0.12.2-linux64-cli.Ubuntu14.04.tar.gz
   
   or
   
